@@ -1,6 +1,6 @@
 package mathsForCp;
 
-public class Math {
+public class Mathx {
     public static boolean isOdd(int n){
         return (n & 1) == 1;
     }
@@ -66,4 +66,6 @@ public class Math {
 
           */
     }
+
+
 }
